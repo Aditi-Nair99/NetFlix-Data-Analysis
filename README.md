@@ -13,3 +13,18 @@ The goal of this analysis is to understand patterns in Netflix’s content libra
 - Pandas and NumPy for data manipulation  
 - Matplotlib and Seaborn for visualization  
 - Jupyter Notebook for analysis and presentation  
+
+Here’s what I did in this project:
+🎥 Imported movie dataset (mymoviedb.xlsx)
+📊 Cleaned and analyzed the data in Jupyter Notebook using Pandas & NumPy
+🎨 Created visualizations (ratings, genres, popularity trends) using Plotly
+⚙️ Developed a Streamlit web dashboard with interactive filters, KPIs, and charts
+🌗 Added dark/light theme support to make it look modern and professional
+
+This dashboard helps users easily explore movie insights such as:
+⭐ Top-rated movies
+🔥 Most popular movies
+🍿 Genre-wise distribution
+📈 Yearly rating trends
+
+It was a great experience connecting data analysis with dashboard visualization tools, and I learned how Streamlit can be a great alternative to Power BI for Python users.
